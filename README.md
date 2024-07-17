@@ -1,5 +1,5 @@
 
-![Logo\] (https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+
 <h1 align="center">Hi 👋, I'm Prasanna Gaikwad</h1>
 <h3 align="center">A passionate Software Developer</h3>
 <img align="right"  src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width="400" alt="code every day"> 
